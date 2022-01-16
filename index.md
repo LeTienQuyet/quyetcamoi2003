@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# **Lê Tiến Quyết**
+Chào các bạn đến với phần giới thiệu bản thân của mình!
 
-You can use the [editor on GitHub](https://github.com/LeTienQuyet/quyetcamoi2003/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sau đây là một số thông tin về bản thân mình.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Thông tin cơ bản
 
-### Markdown
+- Họ và tên: Lê Tiến Quyết
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Ngày sinh: 04/12/2003
 
-```markdown
-Syntax highlighted code block
+- Địa chỉ: Gio Linh - Quảng Trị
 
-# Header 1
-## Header 2
-### Header 3
+## Học vấn
 
-- Bulleted
-- List
+ Đang học tại Trường Đại học Công nghệ Thông tin ĐHQG TP.HCM
 
-1. Numbered
-2. List
+ Ngành học: Khoa học máy tính
 
-**Bold** and _Italic_ and `Code` text
+## Sở thích
+- Chơi game Liên Minh Huyền Thoại
 
-[Link](url) and ![Image](src)
-```
+- Nghe nhạc
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Đá bóng
 
-### Jekyll Themes
+## Liên hệ
+Email: 21520428@gm.uit.edu.vn
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeTienQuyet/quyetcamoi2003/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Facebook](https://www.facebook.com/quyet.leetien2003)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
